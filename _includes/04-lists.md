@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [x] Opt out of e-textbook :books:
+- [ ] Pay tuition :dollar:
+- [ ] Register for next term :registered:
