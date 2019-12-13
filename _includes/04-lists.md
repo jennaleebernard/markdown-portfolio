@@ -1,3 +1,3 @@
-- [x] Opt out of e-textbook :books:
-- [ ] Pay tuition :dollar:
-- [ ] Register for next term :registered:
+- [x] ~~Opt out of e-textbook~~ :books:
+- [ ] _Pay tuition_ :dollar:
+- [ ] Register for **next term** :registered:
